@@ -117,6 +117,3 @@ This project demonstrates the complete workflow of a machine learning pipeline, 
 - K-Means Clustering was used to identify groups of similar housing districts.
 - Feature scaling improved the performance of both machine learning models.
 - The Elbow Method was used to determine an appropriate number of clusters.
-- K-Means Clustering was used to identify groups of similar housing districts.
-- Feature scaling improved the performance of both machine learning models.
-- The Elbow Method was used to determine an appropriate number of clusters.
